@@ -1,0 +1,5 @@
+name: SignLogger
+version: 1.0.0
+author: harrison.page
+main: love.toad.Main
+api-version: 1.18
